@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "baseBranches": ["master", "l4", "l5", "l6", "l7", "l8"]
+}
